@@ -5,7 +5,7 @@ categories: [Idle Thoughts, Housekeeping]
 tags: [experimentation, learning, art generation, technology]     # TAG names should always be lowercase
 ---
 
-## First post, breaking ground
+## First post
 
 Data science, tech development in genral, it's about curiosity. This repo won't just be meandering through the concept of learning new tools, or quick tech demos. Hopefully. My interests fall on the intersection of technology and art, and jumping into the deep end to see what'll stick to the wall. It'll aim to be an ode to the hands-on, gritty, often frustrating journey of practical experimentation. I'll share mistakes, fuckups, hopefully you can relate. It's where I tend to learn the most. But if I do make something cool, something unexpected, it'll be here too. 
 
